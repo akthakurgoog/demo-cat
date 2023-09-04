@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+**/*.pyc
+**/*.rws
+**/.DS_Store
+**/.idea
+**/.ipynb_checkpoints
+**/.vscode
+**/proofreading
+**/venv
+**/.python-version
+=======
+node_modules
+>>>>>>> f5a6c58 (SET)
